@@ -1,0 +1,1634 @@
+[2020-08-26 15:58:39,056] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 15:59:09,961] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 15:59:36,551] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:00:36,823] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:01:10,741] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:33:54,704] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:34:06,227] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:55:54,705] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:56:25,998] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:56:45,684] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 16:56:57,581] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:03:48,282] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:04:03,912] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:04:25,746] [MainThread] [ERROR] [db_pool.PoolException] [db_pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:11:11,413] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:11:26,566] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:12:18,568] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:12:39,756] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:12:55,472] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:13:59,012] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:15:17,472] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:23:52,949] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:24:15,891] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:24:25,782] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:42:11,572] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:42:27,790] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:43:03,393] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:43:56,735] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 17:44:02,991] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 20:25:51,509] [MainThread] [ERROR] [model.aes_decryption] [model.py:30] Decrypt data string error
+[2020-08-26 20:27:45,747] [MainThread] [ERROR] [model.aes_decryption] [model.py:30] Decrypt data string error
+[2020-08-26 20:28:09,488] [MainThread] [ERROR] [model.aes_decryption] [model.py:30] Decrypt data string error
+[2020-08-26 20:28:25,215] [MainThread] [ERROR] [model.aes_decryption] [model.py:30] Decrypt data string error
+[2020-08-26 20:53:30,630] [MainThread] [ERROR] [model.aes_decryption] [model.py:34] Decrypt data string error
+[2020-08-26 20:54:34,759] [MainThread] [ERROR] [model.aes_decryption] [model.py:34] Decrypt data string error
+[2020-08-26 20:55:01,424] [MainThread] [ERROR] [model.aes_decryption] [model.py:34] Decrypt data string error
+[2020-08-26 21:05:30,832] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:05:45,406] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:05:45,409] [MainThread] [ERROR] [model.query_sqlite] [model.py:66] sql执行失败，抛出异常:Replacement index 0 out of range for positional args tuple
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 63, in query_sqlite
+    for i in conn.execute('select token from Auth where user={}'.format()):
+IndexError: Replacement index 0 out of range for positional args tuple
+[2020-08-26 21:06:17,085] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:06:17,089] [MainThread] [ERROR] [model.query_sqlite] [model.py:66] sql执行失败，抛出异常:no such column: chenfei
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 63, in query_sqlite
+    for i in conn.execute('select token from Auth where user={}'.format(username)):
+sqlite3.OperationalError: no such column: chenfei
+[2020-08-26 21:06:46,724] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:06:46,726] [MainThread] [ERROR] [model.query_sqlite] [model.py:68] sql执行失败，抛出异常:no such column: chenfei
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 65, in query_sqlite
+    for i in conn.execute(sql):
+sqlite3.OperationalError: no such column: chenfei
+[2020-08-26 21:07:22,117] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:07:22,121] [MainThread] [ERROR] [model.query_sqlite] [model.py:68] sql执行失败，抛出异常:no such column: chenfei
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 65, in query_sqlite
+    for i in conn.execute(sql):
+sqlite3.OperationalError: no such column: chenfei
+[2020-08-26 21:07:30,782] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:08:46,963] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:10:44,301] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:10:44,320] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 21:10:56,068] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:10:56,073] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:10:56] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:11:39,996] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:11:40,009] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 21:11:45,461] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:11:45,474] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:11:45] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:11:46,443] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:11:46,444] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:11:46] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:11:47,129] [Thread-3] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:11:47,130] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:11:47] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:11:48,950] [Thread-4] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:11:48,951] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:11:48] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:12:22,464] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:12:22,478] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 21:12:26,093] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:12:26,094] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:12:26] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:12:52,981] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2097, in make_response
+    raise TypeError(
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+[2020-08-26 21:12:52,982] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:12:52] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:13:29,976] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:13:29,991] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 21:13:32,776] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:13:32] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 21:13:40,849] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 74, in verify_token
+    username, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-26 21:13:40,852] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:13:40] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:15:04,426] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 21:15:04,433] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 21:15:06,789] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 74, in verify_token
+    username, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-26 21:15:06,792] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:15:06] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-26 21:15:14,258] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:15:14] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 21:19:43,812] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:19:43] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 21:48:18,312] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 21:48:18] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:22,446] [Thread-5] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:22] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:24,516] [Thread-6] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:24] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:25,367] [Thread-7] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:25] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:25,907] [Thread-8] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:25] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:26,302] [Thread-9] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:26] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:46:27,916] [Thread-10] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:46:27] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 22:56:54,105] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 22:57:20,194] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 22:57:20,210] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 22:57:30,634] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 22:57:30] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-26 23:00:15,457] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:00:15,472] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:00:22,656] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:00:22,674] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:00:26,163] [Thread-6] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:00:26] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-26 23:17:47,854] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:17:47,869] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-26 23:17:50,636] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:17:50] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:28:33,381] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:28:33] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:37:18,236] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:18] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:37:19,136] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:19] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:37:19,806] [Thread-5] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:19] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:37:20,447] [Thread-6] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:20] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:37:23,503] [Thread-7] [ERROR] [app.log_exception] [app.py:1891] Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-26 23:37:23,513] [Thread-7] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2020-08-26 23:37:30,343] [Thread-8] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:37:30] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:40:01,388] [Thread-9] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:40:01] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:40:02,167] [Thread-10] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [26/Aug/2020 23:40:02] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-26 23:40:59,562] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:41:03,313] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:42:57,717] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-26 23:42:57,729] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 00:10:51,317] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 00:10:51,340] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 00:10:55,713] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 00:11:23,244] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 09:45:33,311] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 09:56:44,367] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 09:56:44,384] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 09:56:49,842] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 09:56:49] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 09:58:14,845] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 09:58:14,858] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 09:58:18,149] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 09:58:18] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 09:59:18,684] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 09:59:18,691] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 09:59:23,761] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 09:59:23,782] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 09:59:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2020-08-27 09:59:32,182] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 09:59:32] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 10:00:48,945] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:00:48,953] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:00:51,594] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:00:51] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 10:01:44,609] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:01:44] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 10:04:03,132] [Thread-3] [ERROR] [app.log_exception] [app.py:1891] Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:04:03,149] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:04:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2020-08-27 10:04:38,307] [Thread-4] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:04:38,307] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:04:38] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:04:49,130] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:04:49,140] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:04:51,751] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:04:51,754] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:04:51] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:04:52,513] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:04:52,514] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:04:52] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:04:53,944] [Thread-3] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask_httpauth.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 72, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:04:53,945] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:04:53] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:09:14,701] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:09:14,709] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:09:17,620] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 347, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 73, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:09:17,628] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:09:17] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:09:50,812] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:09:50,821] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:10:01,038] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 348, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 73, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:10:01,049] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:10:01] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:10:21,875] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:10:21,888] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:10:25,352] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 73, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:10:25,364] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:10:25] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:11:12,229] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 73, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:11:12,232] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:11:12] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:11:27,120] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:11:27] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 10:11:54,553] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:11:54,565] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:11:56,955] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:11:56] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 10:12:01,184] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 76, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:12:01,196] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:12:01] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:36:41,199] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:36:41,212] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:36:44,877] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 76, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:36:44,889] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:36:44] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:39:12,971] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:39:12,985] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:39:16,073] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 78, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:39:16,086] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:39:16] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 10:56:13,434] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:56:13,449] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:56:18,537] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:56:18] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 10:57:16,445] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:57:16] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 10:57:43,907] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 10:57:43,920] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 10:57:46,482] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 79, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 10:57:46,498] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 10:57:46] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:03:19,784] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:03:19,799] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:03:22,857] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:03:22] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:03:40,802] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:03:40,820] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:03:42,843] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:03:42] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:04:46,948] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:04:46,955] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:04:49,269] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 148, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 196, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 95, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 11:04:49,285] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:04:49] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:05:01,019] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:05:01,027] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:05:03,014] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:05:03] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:07:41,261] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:07:41,277] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:07:43,657] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:07:43] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:09:02,135] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:09:02,145] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:09:04,363] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:09:04] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:09:37,652] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:09:37,661] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:09:41,752] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:09:41] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:12:06,675] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:12:06,690] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:12:46,820] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:12:46] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:13:21,981] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:13:21,994] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:13:25,307] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:13:25] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:13:43,571] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:13:43,579] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:13:45,657] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:13:45] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:15:24,056] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:15:24,069] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:15:26,897] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:15:26] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 11:17:27,368] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:17:27] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 11:18:06,806] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:18:06,821] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:18:09,118] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:18:09] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:18:30,144] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:18:30,152] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:18:32,292] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 150, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 199, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 79, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 11:18:32,302] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:18:32] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:20:15,655] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:20:15,663] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:20:17,908] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 201, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 79, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 11:20:17,932] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:20:17] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:21:43,986] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:21:43,993] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:21:46,591] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    auth = self.get_auth()
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 71, in get_auth
+    self.default_auth_error(401)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'default_auth_error'
+[2020-08-27 11:21:46,593] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:21:46] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:23:22,066] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:23:22,073] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:23:24,330] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:23:24] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:24:24,053] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:24:24,063] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:24:26,430] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'authenticate'
+[2020-08-27 11:24:26,434] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:24:26] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:24:33,524] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:24:33,537] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:24:36,205] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:24:36] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:24:46,393] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:24:46,400] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:24:48,484] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:24:48] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:25:03,996] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:25:04,003] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:25:30,446] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:25:30,454] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:25:33,052] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:25:33] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:26:03,533] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:26:03,548] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:26:05,599] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 193, in authenticate
+    return self.verify_token_callback(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/model.py", line 79, in verify_token
+    user_name, _token = aes_decryption(token)
+ValueError: not enough values to unpack (expected 2, got 0)
+[2020-08-27 11:26:05,603] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:26:05] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:26:59,725] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:26:59] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 11:28:11,001] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:28:11,010] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:28:13,231] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:28:13,232] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:28:13] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:28:28,225] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:28:28,233] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:28:30,199] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 151, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:28:30,201] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:28:30] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:28:34,193] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:28:34,201] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:28:35,823] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 151, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:28:35,825] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:28:35] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:28:48,145] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:28:48,152] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:28:49,992] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 150, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:28:49,996] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:28:49] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:29:04,308] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:29:04,317] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:29:05,933] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:29:05,935] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:29:05] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:29:58,874] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:29:58,883] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:30:00,888] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:30:00,895] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:00] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:30:03,412] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:30:03,416] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:03] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:30:16,466] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:30:16,474] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:30:18,476] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 152, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:30:18,478] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:18] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:30:30,844] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:30:30,852] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:30:32,685] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:32] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:30:36,295] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:36] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:30:37,927] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:37] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:30:38,325] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:30:38] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:33:14,058] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:33:14,073] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:33:17,250] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:33:17] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 401 -
+[2020-08-27 11:33:38,805] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:33:38,824] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:35:00,029] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:35:00,059] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:35:01,749] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 145, in decorated
+    user = self.authenticate(auth, password)
+TypeError: authenticate() takes 2 positional arguments but 3 were given
+[2020-08-27 11:35:01,764] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:35:01] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:49:08,999] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:49:09,013] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:49:11,177] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:49:11,189] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:49:11] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:49:45,020] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:49:45,027] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:49:47,262] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:49:47,265] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:49:47] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:50:01,886] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:50:01,912] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:50:03,763] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:50:03,766] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:50:03] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:50:32,370] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:50:32,378] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:50:34,430] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:50:34,432] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:50:34] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:51:07,491] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:51:07,514] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:51:09,419] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:51:09,435] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:51:09] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:52:05,683] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:52:05,690] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:52:07,614] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 144, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:52:07,616] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:52:07] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:52:35,897] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:52:35,918] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:52:38,066] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 142, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:52:38,076] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:52:38] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:53:00,952] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:53:00,969] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:53:02,880] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:53:02,894] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:53:02] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:56:16,614] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:56:16,627] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:56:22,834] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 143, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:56:22,839] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:56:22] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 11:58:29,967] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:58:29,984] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:58:47,375] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 11:58:47,385] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 11:58:54,837] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 91, in decorated
+    password = self.get_auth_password(auth)
+AttributeError: 'HTTPTokenAuth' object has no attribute 'get_auth_password'
+[2020-08-27 11:58:54,843] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 11:58:54] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:00:48,917] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:00:48,926] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:00:51,058] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 98, in decorated
+    g.flask_httpauth_user = user if user is not True \
+NameError: name 'user' is not defined
+[2020-08-27 12:00:51,074] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:00:51] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:02:28,777] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 98, in decorated
+    return decorated
+NameError: name 'user' is not defined
+[2020-08-27 12:02:28,784] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:02:28] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:03:07,758] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:03:07,777] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:03:09,629] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:03:09] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:03:29,796] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:03:29] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:04:43,134] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:04:43,143] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:04:45,442] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:04:45] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:04:49,838] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:04:49] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:05:13,600] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:05:13] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:05:46,890] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:05:46] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:06:04,913] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:06:04,941] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:06:06,890] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:06:06] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:06:09,944] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:06:09] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:06:14,140] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:06:14] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:06:17,341] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:06:17] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:07:00,369] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:07:00,391] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:07:02,392] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:02] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:07:29,307] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:07:29,341] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:07:31,496] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:31] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:07:42,000] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:42] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:07:44,186] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:07:44,198] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:07:45,446] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:45] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:07:52,445] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:52] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:07:55,640] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:07:55,651] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:07:57,303] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:07:57] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:08:14,401] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:08:14,441] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:08:16,155] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:08:16] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:08:20,348] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:08:20] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:11:54,308] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:11:54,342] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:11:56,443] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:11:56] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:12:42,034] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:12:42,042] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:12:44,544] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:12:44] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:14:15,891] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:14:15,904] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:14:17,995] [Thread-1] [ERROR] [token.aes_decryption] [token.py:31] Decrypt data string error
+[2020-08-27 12:14:17,995] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 131, in decorated
+    user_name, _token = aes_decryption(token)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 32, in aes_decryption
+    raise e
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 26, in aes_decryption
+    data_string = base64.b64decode(token)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[2020-08-27 12:14:18,018] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:14:18] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:14:31,594] [Thread-2] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 128, in decorated
+    token = dict(auth).get('token')
+TypeError: 'NoneType' object is not iterable
+[2020-08-27 12:14:31,595] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:14:31] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:15:03,594] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:15:03,603] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:15:05,444] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 127, in decorated
+    token = dict(auth).get('token')
+TypeError: 'NoneType' object is not iterable
+[2020-08-27 12:15:05,448] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:15:05] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:15:16,773] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:15:16,794] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:15:18,544] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 127, in decorated
+    token = dict(auth).get('token')
+TypeError: 'NoneType' object is not iterable
+[2020-08-27 12:15:18,551] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:15:18] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:15:23,653] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:15:23,698] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:15:25,312] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:15:25] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:16:28,069] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:16:28,095] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:16:30,559] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on /api/v1/default [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token.py", line 127, in decorated
+    user_name, _token = self.aes_decryption(dict(auth).get('token'))
+TypeError: 'NoneType' object is not iterable
+[2020-08-27 12:16:30,562] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:16:30] "[35m[1mGET /api/v1/default HTTP/1.1[0m" 500 -
+[2020-08-27 12:49:23,595] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:49:23,607] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:49:25,731] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:49:25] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:50:09,914] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:50:09,946] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:50:11,832] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:50:11] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:50:26,509] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:50:26,526] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:50:28,817] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:50:28] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:50:52,696] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:50:52,706] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:50:55,456] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:50:55] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:51:18,468] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:51:18,477] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:51:20,566] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:51:20] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 12:51:27,077] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:51:27] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:52:22,799] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:52:22,808] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:52:29,346] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:52:29,353] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:52:31,328] [Thread-1] [ERROR] [token.aes_decryption] [token.py:31] Decrypt data string error
+[2020-08-27 12:52:31,329] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:52:31] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:54:07,960] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:54:07,976] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:54:10,080] [Thread-1] [ERROR] [token.aes_decryption] [token.py:31] Decrypt data string error
+[2020-08-27 12:54:10,081] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:54:10] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:54:30,910] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:54:30,917] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:54:32,890] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:54:32] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:56:18,106] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:56:18,118] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:56:24,930] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:56:24,940] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:56:27,256] [Thread-1] [ERROR] [token.aes_decryption] [token.py:30] Decrypt data string error, Incorrect padding
+[2020-08-27 12:56:27,257] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:56:27] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 12:57:04,273] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 12:57:04,281] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 12:57:06,334] [Thread-1] [ERROR] [token.aes_decryption] [token.py:30] Decrypt data string error, Incorrect padding
+[2020-08-27 12:57:06,337] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 12:57:06] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 13:01:02,214] [Thread-2] [ERROR] [token.aes_decryption] [token.py:30] Decrypt data string error, ciphertext block must be 16 bytes
+[2020-08-27 13:01:02,214] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:01:02] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 13:01:27,423] [Thread-3] [ERROR] [token.aes_decryption] [token.py:30] Decrypt data string error, ciphertext block must be 16 bytes
+[2020-08-27 13:01:27,424] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:01:27] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 13:01:30,916] [Thread-4] [ERROR] [token.aes_decryption] [token.py:30] Decrypt data string error, Incorrect padding
+[2020-08-27 13:01:30,916] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:01:30] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 13:04:17,468] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:04:45,737] [Thread-5] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:04:45] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 13:09:29,248] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:10:18,971] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:10:18,982] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:10:22,313] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:10:22] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 13:10:29,121] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:10:29] "[31m[1mGET /api/v1/default HTTP/1.1[0m" 403 -
+[2020-08-27 13:29:34,855] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:29:34] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 13:29:56,964] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:29:56,978] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:29:59,673] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:29:59] "[37mGET /api/v1/default HTTP/1.1[0m" 200 -
+[2020-08-27 13:30:14,259] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:30:14] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:30:21,153] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:30:21] "[31m[1mGET / HTTP/1.1[0m" 401 -
+[2020-08-27 13:30:27,644] [Thread-4] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:30:27] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:34:55,759] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:34:55,773] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:35:13,574] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:35:13] "[31m[1mGET / HTTP/1.1[0m" 401 -
+[2020-08-27 13:35:13,801] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:35:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2020-08-27 13:35:23,418] [Thread-3] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:35:23] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:36:05,861] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:36:05,875] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:36:18,093] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:36:18] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:36:46,199] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:36:46] "[31m[1mGET / HTTP/1.1[0m" 401 -
+[2020-08-27 13:40:13,944] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:40:13,957] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:40:28,977] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:40:28,978] [Thread-1] [ERROR] [app.log_exception] [app.py:1891] Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/rizhiyi/github/91PornAPI/venv/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Users/rizhiyi/github/91PornAPI/apps/api/base/auth/token_auth.py", line 106, in decorated
+    user_name, header_token = aes_decryption(dict(auth).get('token'))
+TypeError: cannot unpack non-iterable NoneType object
+[2020-08-27 13:40:29,002] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:40:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2020-08-27 13:41:18,934] [Thread-2] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:41:18] "[31m[1mGET / HTTP/1.1[0m" 401 -
+[2020-08-27 13:41:46,704] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:41:46,716] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:41:51,344] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:41:51,345] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:41:51] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:42:05,388] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:42:05,396] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:42:07,615] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:42:07,615] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:42:07] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:42:19,527] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:42:19,534] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:42:21,655] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:42:21,656] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:42:21] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:42:53,404] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:42:53,412] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:42:55,370] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:42:55,371] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:42:55] "[37mGET / HTTP/1.1[0m" 200 -
+[2020-08-27 13:43:23,864] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:43:23,886] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:43:29,170] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:43:29,171] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:43:29] "[31m[1mGET / HTTP/1.1[0m" 401 -
+[2020-08-27 13:43:41,861] [MainThread] [ERROR] [pool.PoolException] [pool.py:15] <class 'Exception'>
+NoneType: None
+[2020-08-27 13:43:41,886] [MainThread] [INFO] [_internal._log] [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2020-08-27 13:43:43,856] [Thread-1] [ERROR] [token_auth.aes_decryption] [token_auth.py:26] 解密token异常, Incorrect padding
+[2020-08-27 13:43:43,857] [Thread-1] [INFO] [_internal._log] [_internal.py:113] 127.0.0.1 - - [27/Aug/2020 13:43:43] "[31m[1mGET / HTTP/1.1[0m" 401 -

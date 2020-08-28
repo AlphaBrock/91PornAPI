@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 from dateutil.relativedelta import relativedelta
 
-from config.config import setup_log, VIDEO_TYPE, DB_PATH
+from config.config import setup_log, VIDEO_TYPE, DB_PATH, PROXIES
 from apps.api.base.db import init_db
 
 logger = setup_log()
@@ -62,7 +62,6 @@ def download_html(url, params):
         "referer": url,
         "X-Forwarded-For": str(IPv4Address(random.getrandbits(32)))
     }
-    print(HEADERS)
     payload = {
         "session_language": "cn_CN"
     }
@@ -126,7 +125,7 @@ def read_video_html_url(url, video_type, page_num):
 def decrypted(input, key):
     """
     91porn的js解密代码
-    function strencode(input, key) {
+    function strncode(input, key) {
         input = atob(input);
         len = key.length;
         code = '';
@@ -134,7 +133,6 @@ def decrypted(input, key):
             k = i % len;
             code += String.fromCharCode(input.charCodeAt(i) ^ key.charCodeAt(k));
         }
-        return code;
         return atob(code);
     }
     :return:
@@ -144,7 +142,7 @@ def decrypted(input, key):
     code = ''
     for i in range(len(_input)):
         k = i % _len
-        code += chr((_input[i] ^ key[k]) & 0xffff)
+        code += chr((_input[i] ^ ord(key[k])) & 0xffff)
     return base64.b64decode(code.encode())
 
 
@@ -157,13 +155,13 @@ def read_video_url(video_title, video_pic, video_html_url, video_duration, autho
     try:
         params = {}
         html = download_html(video_html_url, params)
-        # video_encode_url = re.compile(r'document.write\(strencode\(([^)]+)').search(html)
-        video_encode_url = BeautifulSoup(html, 'lxml').find('source')
+        video_encode_url = re.compile(r'document.write\(strencode\(([^)]+)').search(html)
+        # video_encode_url = BeautifulSoup(html, 'lxml').find('source')
         if video_encode_url is not None:
-            # encrypted_url = video_encode_url.group(1).replace('"', '').split(',')
-            # source = decrypted(encrypted_url[0].encode(), encrypted_url[1].encode())
-            # src = BeautifulSoup(source, 'lxml').find_all('source')[0]['src']
-            src = video_encode_url['src']
+            encrypted_url = video_encode_url.group(1).replace('"', '').split(',')
+            source = decrypted(encrypted_url[0].encode(), encrypted_url[1].encode())
+            src = BeautifulSoup(source, 'lxml').find_all('source')[0]['src']
+            # src = video_encode_url['src']
             VIDEO_INFO.append((video_title, video_html_url, src, video_duration, video_pic, author, check, uptime))
             logger.info(
                 "视频名称:{}, 视频图片:{}, 视频网页地址:{}, 视频地址:{}, 视频时长:{}, 作者:{}, 观看数:{}, 上传时间:{}".format(video_title, video_pic,
